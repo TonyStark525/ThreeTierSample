@@ -7,7 +7,7 @@
 <title>Add Student</title>
 </head>
 <body>
-	CCC
+	CCCDDD
 	Git Test!
 	Test Git 123
 	Please enter the student Information of the student you want to add:
