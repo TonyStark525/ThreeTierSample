@@ -7,8 +7,12 @@
 <title>Add Student</title>
 </head>
 <body>
+<<<<<<< HEAD
 AAA
 	CCC
+=======
+	CCCDDD
+>>>>>>> branch 'master' of https://github.com/TonyStark525/ThreeTierSample.git
 	Git Test!
 	Test Git 123
 	Please enter the student Information of the student you want to add:
