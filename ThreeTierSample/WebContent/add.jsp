@@ -7,7 +7,7 @@
 <title>Add Student</title>
 </head>
 <body>
-	Test Git 1
+	Test Git 12
 	Please enter the student Information of the student you want to add:
 	<form action="AddStudentServlet" method="post">
 		Number:<input type="text" name="sno"><br/>
